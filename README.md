@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nguyen Van Hung</h1>
 <h3 align="center">A passionate backend developer</h3>
 
+- ⛪ I’m currently living at **Vietnam**
+
+- 📖 I'm studying at Ho Chi Minh City Open University
+
 - 📫 How to reach me **nguyenhung.contactme@gmail.com**
 
 - 🏸 I'm interested in **badminton**
@@ -15,6 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngynhung&show_icons=true&locale=en&layout=compact" alt="ngynhung" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngynhung&show_icons=true&locale=en" alt="ngynhung" /></p>
-
-
-
